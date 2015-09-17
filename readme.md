@@ -12,7 +12,7 @@ Laravel is accessible, yet powerful, providing powerful tools needed for large, 
 
 ## Welcome to my first laravel 5.1 application by sokratis tzalabiras
 
-Enjoy the ride hahaha not
+Enjoy the ride hahaha not! Be good! Eat healthy!
 
 ### License
 
