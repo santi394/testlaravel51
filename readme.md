@@ -16,13 +16,9 @@ Laravel is accessible, yet powerful, providing powerful tools needed for large, 
 Work covered so far:
 
 1. 00-Laravel and required Software - 2015
-
 2. 01-Installing Laravel 5.1 on xampp - 2015
-
 3. did not complete 02 and 03 (optional)
-
 4. 04-Laravel 5.1 Directory Structure - 2015
-
 5. 05-Creating a Git Respository - 2015
 
 
