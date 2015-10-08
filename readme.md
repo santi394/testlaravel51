@@ -21,6 +21,7 @@ Work covered so far:
 4. 04-Laravel 5.1 Directory Structure - 2015
 5. 05-Creating a Git Respository - 2015
 6. 06-Artisan CLI - 2015
+7. Marked by Stephan 9/10/2015
 
 
 ### License
